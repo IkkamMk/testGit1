@@ -18,7 +18,7 @@ public abstract class Noeuds  {
 
     public Noeuds(int ind, double px, double py, double ForceX, double ForceY) {
         this.ind = ind;
-        this.px = px;
+        this.px = px; //ALIIIIIIII
         this.py = py;
         this.ForceX = ForceX;
         this.ForceY = ForceY;

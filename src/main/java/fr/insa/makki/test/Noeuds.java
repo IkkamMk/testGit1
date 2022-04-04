@@ -13,7 +13,7 @@ public abstract class Noeuds  {
     private int ind;
     private double px;
     private double py;
-    private double ForceX ;
+    private double ForceX ; //QUERGHUTGBQHN
     private double ForceY ;
 
     public Noeuds(int ind, double px, double py, double ForceX, double ForceY) {
